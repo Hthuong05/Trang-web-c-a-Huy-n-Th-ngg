@@ -1,7 +1,7 @@
 body {
   background-image:url('images/bg3.jpg'); ;
   background-attachment: fixed;
-  background-size:  100% 100%;
+  background-size: cover;
   background-repeat: no-repeat;
 h1 {
   color: white;
@@ -11,8 +11,7 @@ h2{
   background-image: url('images/gra1.jpg');
   background-repeat: no-repeat;	
   background-attachment: fixed;
-  background-size:  100% 100%;
-  
+   background-size: cover;
 }
 p {
   color: pink;
