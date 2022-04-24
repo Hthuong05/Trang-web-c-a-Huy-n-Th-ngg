@@ -4,8 +4,10 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 h1 {
-  color: white;
- 
+   background-image: url('images/eat.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 h2{
   background-image: url('images/gra1.jpg');
@@ -13,6 +15,7 @@ h2{
   background-attachment: fixed;
    background-size: cover;
 }
+  
 p {
   color: pink;
   font-size:30px;
